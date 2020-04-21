@@ -1,7 +1,6 @@
 # MilitaryTimeConverter
-Converts Military into Standard Time
  
- This Java program converts Standard time into Military Time.</br>
+ This Java program converts Military Time into Standard Time .</br>
  It demonstrates the use of JUnit to do some simple unit testing.
  
  How to run in Eclipse IDE:
